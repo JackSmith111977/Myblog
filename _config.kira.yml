@@ -1,10 +1,10 @@
-avatar: https://github.com/JackSmith111977/MyBlog/blob/main/source/pic/125349440_p0.png?raw=true # 网站 Logo
+avatar: https://kei-blog.oss-cn-beijing.aliyuncs.com/asset/125981673_p0.jpg # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
-    path: https://github.com/JackSmith111977/MyBlog/blob/main/source/pic/101573594_p0.png?raw=true
+    path: https://kei-blog.oss-cn-beijing.aliyuncs.com/asset/101573594_p0.jpg
     width: 1280
     height: 720
 favicon:
-    href: https://github.com/JackSmith111977/MyBlog/blob/main/source/pic/125981673_p0.png?raw=true # 网站图标
+    href: https://kei-blog.oss-cn-beijing.aliyuncs.com/asset/125981673_p0-cut.ico # 网站图标
     type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 # 附加图标库 使用说明：https://kira.host/hexo/config/icon.html
@@ -117,6 +117,7 @@ giscus:
     # term: # abc 123 # specific | number
     theme: light
     lang: en
+
 
 copyright: '<strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可'
 copyTip: "著作权归作者所有。\n商业转载请联系作者获得授权，非商业转载请注明出处。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
