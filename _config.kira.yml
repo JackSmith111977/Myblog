@@ -1,10 +1,10 @@
-avatar: https://github.com/JackSmith111977/MyBlog/blob/main/source/pic/125349440_p0.png # 网站 Logo
+avatar: https://github.com/JackSmith111977/MyBlog/blob/main/source/pic/125349440_p0.png?raw=true # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
-    path: https://github.com/JackSmith111977/MyBlog/blob/main/source/pic/101573594_p0.png
+    path: https://github.com/JackSmith111977/MyBlog/blob/main/source/pic/101573594_p0.png?raw=true
     width: 1280
     height: 720
 favicon:
-    href: https://github.com/JackSmith111977/MyBlog/blob/main/source/pic/125981673_p0.png # 网站图标
+    href: https://github.com/JackSmith111977/MyBlog/blob/main/source/pic/125981673_p0.png?raw=true # 网站图标
     type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 # 附加图标库 使用说明：https://kira.host/hexo/config/icon.html
