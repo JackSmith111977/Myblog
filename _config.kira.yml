@@ -1,10 +1,10 @@
-avatar: https://kei-blog.oss-cn-beijing.aliyuncs.com/pixivSource/125349440_p0.png?Expires=1756446374&OSSAccessKeyId=TMP.3KrN1MTGRjXd6pHqVuwoVz8NUF7Rf5Drx38ir9LAGcDgoM2FmsXW5fRgwHZgBDUV5k6y1DPnKz1kgmo3e11i2gEQ88BPV4&Signature=AVAzDNbFA5DyKjzPP8b%2BIAYnIpM%3D # 网站 Logo
+avatar: https://github.com/JackSmith111977/MyBlog/blob/main/source/pic/125349440_p0.png # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
-    path: https://kei-blog.oss-cn-beijing.aliyuncs.com/pixivSource/101573594_p0.png?Expires=1756446327&OSSAccessKeyId=TMP.3KrN1MTGRjXd6pHqVuwoVz8NUF7Rf5Drx38ir9LAGcDgoM2FmsXW5fRgwHZgBDUV5k6y1DPnKz1kgmo3e11i2gEQ88BPV4&Signature=3W%2BMTg0OvRxuT8DtBjNPWzPUbv4%3D
+    path: https://github.com/JackSmith111977/MyBlog/blob/main/source/pic/101573594_p0.png
     width: 1280
     height: 720
 favicon:
-    href: https://kei-blog.oss-cn-beijing.aliyuncs.com/pixivSource/125981673_p0.png?Expires=1756446400&OSSAccessKeyId=TMP.3KrN1MTGRjXd6pHqVuwoVz8NUF7Rf5Drx38ir9LAGcDgoM2FmsXW5fRgwHZgBDUV5k6y1DPnKz1kgmo3e11i2gEQ88BPV4&Signature=2nxKhUDSbNJP4LFKRvGpLiU7Mow%3D # 网站图标
+    href: https://github.com/JackSmith111977/MyBlog/blob/main/source/pic/125981673_p0.png # 网站图标
     type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 # 附加图标库 使用说明：https://kira.host/hexo/config/icon.html
