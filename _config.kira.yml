@@ -1,10 +1,10 @@
-avatar: https://kei-blog.oss-cn-beijing.aliyuncs.com/pixivSource/%E3%83%92%E3%83%88%E3%81%93%E3%82%82%E3%82%8B/%E3%83%92%E3%83%88%E3%81%93%E3%82%82%E3%82%8B/115945063_p0.png?Expires=1756437646&OSSAccessKeyId=TMP.3KrN1MTGRjXd6pHqVuwoVz8NUF7Rf5Drx38ir9LAGcDgoM2FmsXW5fRgwHZgBDUV5k6y1DPnKz1kgmo3e11i2gEQ88BPV4&Signature=M62XGATPt%2FfMPMuw%2BCVmBBsaV3I%3D # 网站 Logo
+avatar: https://kei-blog.oss-cn-beijing.aliyuncs.com/pixivSource/125349440_p0.png?Expires=1756446374&OSSAccessKeyId=TMP.3KrN1MTGRjXd6pHqVuwoVz8NUF7Rf5Drx38ir9LAGcDgoM2FmsXW5fRgwHZgBDUV5k6y1DPnKz1kgmo3e11i2gEQ88BPV4&Signature=AVAzDNbFA5DyKjzPP8b%2BIAYnIpM%3D # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
-    path: https://kei-blog.oss-cn-beijing.aliyuncs.com/pixivSource/%E3%83%92%E3%83%88%E3%81%93%E3%82%82%E3%82%8B/%E3%83%92%E3%83%88%E3%81%93%E3%82%82%E3%82%8B/101573594_p0.png?Expires=1756437497&OSSAccessKeyId=TMP.3KrN1MTGRjXd6pHqVuwoVz8NUF7Rf5Drx38ir9LAGcDgoM2FmsXW5fRgwHZgBDUV5k6y1DPnKz1kgmo3e11i2gEQ88BPV4&Signature=olqHQ4zt607DpCYFyC1k5G1ibPk%3D
+    path: https://kei-blog.oss-cn-beijing.aliyuncs.com/pixivSource/101573594_p0.png?Expires=1756446327&OSSAccessKeyId=TMP.3KrN1MTGRjXd6pHqVuwoVz8NUF7Rf5Drx38ir9LAGcDgoM2FmsXW5fRgwHZgBDUV5k6y1DPnKz1kgmo3e11i2gEQ88BPV4&Signature=3W%2BMTg0OvRxuT8DtBjNPWzPUbv4%3D
     width: 1280
     height: 720
 favicon:
-    href: https://kei-blog.oss-cn-beijing.aliyuncs.com/pixivSource/%E3%83%92%E3%83%88%E3%81%93%E3%82%82%E3%82%8B/%E3%83%92%E3%83%88%E3%81%93%E3%82%82%E3%82%8B/125981673_p0.png?Expires=1756438566&OSSAccessKeyId=TMP.3KrN1MTGRjXd6pHqVuwoVz8NUF7Rf5Drx38ir9LAGcDgoM2FmsXW5fRgwHZgBDUV5k6y1DPnKz1kgmo3e11i2gEQ88BPV4&Signature=viQ5SYoCpjFpWecLXHVB6LsbiqQ%3D # 网站图标
+    href: https://kei-blog.oss-cn-beijing.aliyuncs.com/pixivSource/125981673_p0.png?Expires=1756446400&OSSAccessKeyId=TMP.3KrN1MTGRjXd6pHqVuwoVz8NUF7Rf5Drx38ir9LAGcDgoM2FmsXW5fRgwHZgBDUV5k6y1DPnKz1kgmo3e11i2gEQ88BPV4&Signature=2nxKhUDSbNJP4LFKRvGpLiU7Mow%3D # 网站图标
     type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 # 附加图标库 使用说明：https://kira.host/hexo/config/icon.html
@@ -109,10 +109,10 @@ gitalk:
 # https://giscus.app/zh-CN 可以在这个网站上手动选择配置填到下方对应位置
 giscus:
     active: true # 是否启用 giscus
-    repo: -JackSmith111977-/-KeiBlogGiscus- # 存放评论的 discus 所在的 repo
-    repoID: -R_kgDOPmL9LQ- # GitHub repo ID
+    repo: JackSmith111977/MyBlog # 存放评论的 discus 所在的 repo
+    repoID: R_kgDOPlsdKA # GitHub repo ID
     category: Announcements # 选择新 discussions 所在的分类
-    categoryID: -DIC_kwDOPmL9Lc4CuuX1- # 分类 ID
+    categoryID: DIC_kwDOPlsdKM4Cuul7 # 分类 ID
     mapping: pathname # pathname, url, title, og:title, specific, number
     # term: # abc 123 # specific | number
     theme: light
